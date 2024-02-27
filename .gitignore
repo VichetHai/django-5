@@ -1,3 +1,7 @@
 # workspace directory
 .venv
 .vscode
+db.sqlite3
+
+# cache
+__pycache__
