@@ -92,7 +92,6 @@ Create a folder named is to .vscode and add some files below:
         "njpwerner.autodocstring",
         "pkief.material-icon-theme",
         "ms-python.vscode-pylance",
-        "ms-python.python",
         "ms-python.debugpy",
         "donjayamanne.python-environment-manager",
         "kevinrose.vsc-python-indent",
@@ -102,7 +101,8 @@ Create a folder named is to .vscode and add some files below:
         "usernamehw.errorlens",
         "eamodio.gitlens",
         "yzhang.markdown-all-in-one",
-        "rangav.vscode-thunder-client"
+        "rangav.vscode-thunder-client",
+        "wholroyd.jinja"
     ]
 }
 ```
